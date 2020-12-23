@@ -17,7 +17,14 @@ Week 2:
  2º Implement a program that encrypts messages using Caesar’s cipher.
 
 Week 3:
+
  1º Implement a program that runs a plurality election.
  2º Implement a program that runs a runoff election.
  
 Week 4:
+ 
+ 1º Implement a program that applies filters to BMPs.
+ 2º Implement a program that recovers JPEGs from a forensic image.
+
+Week 5:
+ 1º
