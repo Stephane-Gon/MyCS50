@@ -26,5 +26,10 @@ Week 5:
  1º Implement a program that spell-checks a file, a la the below, using a hash table.
 
 Week 6:
+ 1º Make all the projects from week1 in python
+ 2º Implement a program that computes the approximate grade level needed to comprehend some text in python.
+ 3º Implement a program that identifies a person based on their DNA.
+ 
+Week 7:
  1º
 
