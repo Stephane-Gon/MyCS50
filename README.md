@@ -15,3 +15,9 @@ Week 2:
  
  1º Implement a program that computes the approximate grade level needed to comprehend some text.
  2º Implement a program that encrypts messages using Caesar’s cipher.
+
+Week 3:
+ 1º Implement a program that runs a plurality election.
+ 2º Implement a program that runs a runoff election.
+ 
+Week 4:
