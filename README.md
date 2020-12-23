@@ -1,7 +1,7 @@
 # MyCS50
 My experience at CS50
 
-Here I post my code while doing CS50 course, which I want to tank for the amazing course and for their hard work.
+Here I post my code while doing CS50 course, which I want to thank for the amazing course and for their hard work.
 
 Week 1:
  1º Hello, world program
@@ -34,3 +34,4 @@ Week 7:
  1º Write SQL queries to answer questions about a database of movies.
  2º Implement a program to import student data into a database, and then produce class rosters.
 
+This is all the code for the first part of the course, when I finnish the web path I'll post it aswell.
