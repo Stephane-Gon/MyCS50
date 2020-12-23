@@ -10,3 +10,8 @@ Week 1:
  3º The same thing has problem 2 but instead of one pyramid they asked for two pyramids back to back with a small gap.
  4º A program that takes user's input for a number and than gives the amount of change that would be in certain coins.
  5º A program that checks if a credit card number given by the user it's real or fake.
+
+Week 2:
+ 
+ 1º Implement a program that computes the approximate grade level needed to comprehend some text.
+ 2º Implement a program that encrypts messages using Caesar’s cipher.
