@@ -31,5 +31,6 @@ Week 6:
  3º Implement a program that identifies a person based on their DNA.
  
 Week 7:
- 1º
+ 1º Write SQL queries to answer questions about a database of movies.
+ 2º Implement a program to import student data into a database, and then produce class rosters.
 
